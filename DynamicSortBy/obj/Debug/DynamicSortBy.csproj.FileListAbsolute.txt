@@ -1,0 +1,8 @@
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\obj\Debug\DynamicSortBy.csprojResolveAssemblyReference.cache
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\bin\Debug\DynamicSortBy.dll.config
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\bin\Debug\DynamicSortBy.dll
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\bin\Debug\DynamicSortBy.pdb
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\bin\Debug\nunit.framework.dll
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\bin\Debug\nunit.framework.xml
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\obj\Debug\DynamicSortBy.dll
+c:\users\roko\documents\visual studio 2013\Projects\DynamicSortBy\DynamicSortBy\obj\Debug\DynamicSortBy.pdb
